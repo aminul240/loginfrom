@@ -1,0 +1,123 @@
+
+.container {
+  width: 1000px;
+  margin: auto;
+  margin-top: 200px;
+}
+.first-d {
+  width: 50%;
+  float: left;
+  background: #287fff;
+  border-radius: 20px 0px 0px 20px;
+  overflow: hidden;
+}
+.first-d h1 {
+  text-align: center;
+  margin-top: 64px;
+  font-size: 27px;
+  font-family: inherit;
+  text-transform: capitalize;
+  color: white;
+}
+.first-d p {
+  margin-left: 107px;
+  margin-top: 35px;
+  line-height: 31px;
+  color: #e8e8e8;
+}
+.first-d span {
+  content: "";
+  border: 2px solid #fffcfc;
+  width: 70px;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  margin-left: 118px;
+  border-radius: 10px;
+}
+.first-d-btn {
+  margin-left: 167px;
+  padding: 10px 32px;
+  margin-top: -19px;
+  margin-bottom: 60px;
+  border-radius: 30px;
+  border: none;
+  outline: none;
+  background: #0f6df6;
+  border: 1px solid aliceblue;
+}
+.first-d-btn a {
+  text-decoration: none;
+  font-size: 17px;
+  outline: none;
+  background: ;
+  color: white;
+}
+.snd-div span{
+  content: "";
+  border: 1.9px solid #ff0c0c;
+  width: 49px;
+  display: inline-block;
+  margin-left: 205px;
+  border-radius: 40px;
+}
+
+
+.snd-div h3 {
+  text-align: center;
+}
+.snd-div {
+  width: 50%;
+  float: left;
+  background: #dddddd7d;
+  border-radius: 0px 20px 20px 0px;
+}
+.snd-div h3 {
+  margin-top: 80px;
+  font-size: 24px;
+  font-family: arial;
+  outline: none;
+  display: inline-block;
+  margin-left: 195px;
+  margin-bottom: -7px;
+}
+
+.username {
+  margin-left: 25%;
+  margin-top: 56px;
+  border: none;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 40px;
+  line-height: 50px;
+  font-style: italic;
+  background-color: #fff0;
+  outline: none;
+}
+.password {
+  margin-left: 25%;
+  border: none;
+  border-bottom: 1px solid #ddd;
+  line-height: 55px;
+  font-style: italic;
+  background-color: #fff0;
+  outline: none;
+}
+
+.snd-d-btn {
+  margin-left: 37%;
+  margin-top: 73px;
+  padding: 12px 32px;
+  border: none;
+  background: #287fff;
+  border-radius: 30px;
+  margin-bottom: 77px;
+}
+.snd-d-btn a {
+  text-decoration: none;
+  font-size: 19px;
+  color: white;
+}
+.logo {
+  margin-left: 409px;
+  width: 156px;
+}
